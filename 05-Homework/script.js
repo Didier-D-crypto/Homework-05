@@ -12,10 +12,15 @@ $(document).ready(function () {
    var any = moment().format('MMMM Do YYYY, h:mm:ss a');
     var any2 = moment().format('h');
     console.log(any)
+    
+            
+  }); 
 
-  });
 });
+
+
 
 var clock = document.getElementById("ClockDisplay");
 clock.appendChild();
+
 
